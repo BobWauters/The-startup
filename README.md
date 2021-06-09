@@ -1,6 +1,6 @@
 # The-startup
 
-Group project Becode
+<h3>Group project Becode<h3>
 
 For our first group project we had to create a startup, in this excercise we learned how to recycle already learned techniques and to better understand and implement new CSS and HTML techniques as well as seeing abit of JS for the first time. 
 
